@@ -50,19 +50,6 @@ java Main
 
 The program output matches the Sample Output given in the assignment:
 
-![Program output](output.png)
+<img width="1356" height="516" alt="output" src="https://github.com/user-attachments/assets/d0279cc4-a799-48da-b9f3-6420c0047d15" />
 
-```
-[Container] Registered: gradeController (GradeController)
-[Container] Skipped: ReportPrinter (no @Component)
-[Container] Injected: app.name -> GradeController.appName
-[Container] Injected: app.passMark -> GradeController.passMark
---- Validation ---
-VIOLATION: score - Score must be between 0 and 100 (actual: 120)
-OK
-VIOLATION: semester - Value out of range (actual: 15)
---- Routing ---
-[Router] /hello -> Welcome to CampusBoot
-[Router] /status -> Pass mark is 40
-[Router] /unknown -> 404 Not Found: /unknown
-```
+
