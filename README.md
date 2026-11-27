@@ -1,8 +1,7 @@
 # CampusBoot: Custom Annotations with Java Reflection
 
-**Student:** Shayla Akter | **ID:** IT24022
-**Course work:** Custom Annotation Test (Java Reflection & Custom Annotations)
-**Language:** Java 11+ (no external libraries)
+**Name:** Shayla Akter | **ID:** IT24022
+**Lab work:** Custom Annotation Test (Java Reflection & Custom Annotations)
 
 CampusBoot is a tiny framework that shows how Spring Boot works under the hood: annotations plus reflection.
 
